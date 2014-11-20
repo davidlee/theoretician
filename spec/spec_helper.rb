@@ -1,0 +1,1 @@
+require File.expand_path('../../bin/boot', __FILE__)
